@@ -1,0 +1,60 @@
+body {background-color: #5c58a4;
+margin-top: 0em}
+
+.tp{margin-top: 0;
+color: #5d59a5;
+text-align: center;
+text-shadow: 3px -3px 2px white;
+margin-bottom: 0.2em;
+}
+
+.principalT { background-color: #a4c5e9;
+  margin-left: 0.25em;
+  margin-right: 0.25em;
+}
+
+.principal { background-color: #a4c5e9;
+  margin-left: 0.25em;
+  margin-right: 0.25em;
+
+}
+
+.biografia { background-color: white;
+  margin-top: 3em;
+  text-align: justify;
+}
+
+
+.yogi {
+}
+
+
+
+
+
+
+
+
+
+.naranja {
+  background-color: #f28226;
+  position: relative;
+  width:80%;
+  left: 2em;
+  border: thick dashed white;
+}
+
+.verde{
+background-image: url(smxm8-uf5-pe1b-2b/verde.png);
+padding: 0 2em;
+border-radius: 1em
+}
+
+.marron {
+background-color: #b45421;
+margin-left: 3em;
+margin-right: 2em;
+border: thick solid white;
+border-top: none;
+border-bottom: none;
+}
